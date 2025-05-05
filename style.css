@@ -1,0 +1,19 @@
+.pair {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.pair img {
+    width: 400px;
+    height: 300px;
+    margin-right: 10px;
+	object-fit: cover;
+}
+
+.pair p {
+    font-size: 30px;
+	
+	
+}
